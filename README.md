@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Quang</h1>
 <h3 align="center">A AI engineer from VietNam</h3>
 
-- 🌱 I’m currently learning **machine learning, deep learning, computer vision**
+- 🌱 I’m currently learning **fullstack engineer, AI engineer, machine learning, deep learning, computer vision**
 
-- 📫 How to reach me **tranminhquang050204@gmail.com**
+- 📫 How to reach me **tmquang.contact@gmail.com**
 
 - 📄 Know about my experiences [https://quangtrancst.github.io/](https://quangtrancst.github.io/)
 
